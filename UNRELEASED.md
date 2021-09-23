@@ -23,6 +23,7 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 - [Accessibility] - Removes skeleton shimmer animation on devices that have Reduced motion setting enabled [#4460](https://github.com/Shopify/polaris-react/pull/4460)
 - Added optional `compactTitle` prop to `Page` which removes margin between `title` and `subtitle` ([#4463](https://github.com/Shopify/polaris-react/pull/4463))
 - Added `maxHeight` prop to `TextField` component to limit the height of multi-line inputs. ([#4476](https://github.com/Shopify/polaris-react/pull/4476))
+- Added `PlainAction` type to `ComplexAction`. ([#4489](https://github.com/Shopify/polaris-react/pull/4489)
 
 ### Bug fixes
 
